@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Compiled output
+*.class
+*.jar
+*.zip
+
+# Kotlin
+kotlin/
+
+# Misc
+*.log
+.env
